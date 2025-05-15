@@ -1,2 +1,1 @@
-require("./operations/usefullFunctions.js");
-require("./operations/serialization.js");
+require("./reading/reading.js");
